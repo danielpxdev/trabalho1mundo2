@@ -1,0 +1,36 @@
+
+
+.body{
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+
+.container{
+
+    background-color: black;
+    
+}
+.menu{
+    margin-top: 0;
+    background-color: black;
+    color: azure;
+}
+.frase {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Define a altura da div para ocupar toda a altura da tela */
+    text-align: center;
+    background-color: lightgray; /* Apenas para ilustração */
+}
+
+.frase h1 {
+    font-size: 24px; /* Tamanho da fonte do título */
+}
+
+.frase h2 {
+    font-size: 18px; /* Tamanho da fonte da frase */
+}
+
+}
